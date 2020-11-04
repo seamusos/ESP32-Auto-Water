@@ -1,5 +1,4 @@
 # ESP32-Auto-Water
 
-First PCB project using Altium Designer
-
-ESP32 Based Custom Board for Automatated Irrigation
+ESP32 Based Wi-Fi Irrigation Controller
+Custom PCB design in Altium Designer
