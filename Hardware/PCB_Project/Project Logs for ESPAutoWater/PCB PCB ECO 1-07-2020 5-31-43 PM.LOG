@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Sense1 Pin=J3-1
+Removed Pin From Net: NetName=Sense2 Pin=J4-1
+Removed Pin From Net: NetName=A1 Pin=U1-4
+Removed Pin From Net: NetName=Sense1 Pin=U1-5
+Removed Pin From Net: NetName=A2 Pin=U1-6
+Removed Pin From Net: NetName=Sense2 Pin=U1-7
+Added Pin To Net: NetName=Sense2 Pin=J3-1
+Added Pin To Net: NetName=Sense1 Pin=J4-1
+Added Pin To Net: NetName=A1 Pin=U1-6
+Added Pin To Net: NetName=A2 Pin=U1-7
+Added Pin To Net: NetName=Sense2 Pin=U1-10
+Added Pin To Net: NetName=Sense1 Pin=U1-11
+Change Net Name : Old Net Name=Sense1 New Net Name=Power_A2
+Change Net Name : Old Net Name=Sense2 New Net Name=Power_A1
+Change Net Name : Old Net Name=Sense3 New Net Name=Power_A3

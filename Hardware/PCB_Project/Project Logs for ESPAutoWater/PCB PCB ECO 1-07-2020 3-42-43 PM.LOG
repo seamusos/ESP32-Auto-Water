@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=BT Old Footprint=BAT_BK-885 New Footprint=BAT_BK-868
+Change Component Comment : Designator=BT Old Comment=BK-885 New Comment=BK-868
+Change component parameters: Designator = "BT" ("BT"); Footprint = "BAT_BK-885"; UniqueID = "\PTWVVLZE" ("\PTWVVLZE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4219637"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BK-868"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BK-868/Memory%20Protection%20Devices/view-part/4219637/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
