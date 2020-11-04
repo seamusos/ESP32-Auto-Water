@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Power_A2 Pin=U1-7
+Added Pin To Net: NetName=Power_A1 Pin=U1-7

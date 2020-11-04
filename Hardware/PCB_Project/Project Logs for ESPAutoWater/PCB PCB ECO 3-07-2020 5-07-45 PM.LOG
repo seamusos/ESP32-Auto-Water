@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Ctrl_1 Pin=U1-13
+Added Pin To Net: NetName=Ctrl_1 Pin=U1-11
